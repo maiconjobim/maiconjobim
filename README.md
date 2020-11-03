@@ -1,4 +1,4 @@
-<h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎!
+<h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! </h2>
 
 I'm a Automation and Control Engineering student. Developer at Sequor Software 👨🏻‍💻 
 
