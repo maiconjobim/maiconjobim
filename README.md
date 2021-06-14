@@ -1,10 +1,12 @@
 <h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! </h2>
 
-I'm a Automation and Control Engineering student. Developer at Sequor Software 👨🏻‍💻 
+I'm Full Stack Developer at Sequor Software 👨🏻‍💻.
 
-- 🔭 I’m currently working on React and React Native
-- 🌱 I’m currently learning Flutter, Static Web Apps with Next.js
-- ⚡ Languages: TypeScript,JavaScript,C#, Dart, C, C++
+Automation and Control Engineering student. 
+
+- 🔭 I’m currently working on React, React Native and .net Core
+- 🌱 I’m currently learning Next.js, Flutter 
+- ⚡ Languages: TypeScript, JavaScript, C#, Dart, C, C++, shell, python
 
 <br>
 
