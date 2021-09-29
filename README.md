@@ -1,11 +1,11 @@
 <h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! </h2>
 
-I'm Full Stack Developer at Sequor Software 👨🏻‍💻.
+I'm Full Stack Developer |||  at ADP BRAZIL LABS 👨🏻‍💻.
 
 Automation and Control Engineering student. 
 
-- 🔭 I’m currently working on React, React Native and .net Core
-- 🌱 I’m currently learning Next.js, Flutter 
+- 🔭 I’m currently working on React, React Native and Typescript
+- 🌱 I’m currently learning serverless architecture and Next.js
 - ⚡ Languages: TypeScript, JavaScript, C#, Dart, C, C++, shell, python
 
 <br>
