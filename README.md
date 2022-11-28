@@ -1,11 +1,11 @@
 <h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! </h2>
 
-I'm Full Stack Developer |||  at ADP BRAZIL LABS 👨🏻‍💻.
+I'm Senior Full Stack Developer at Bravosul 👨🏻‍💻.
 
 Automation and Control Engineering student. 
 
-- 🔭 I’m currently working on React, React Native and Typescript
-- 🌱 I’m currently learning serverless architecture and Next.js
+- 🔭 I’m currently working on React, React Native, Typescript, Next.js, Nest.js
+- 🌱 I’m currently learning serverless architecture and 
 - ⚡ Languages: TypeScript, JavaScript, C#, Dart, C, C++, shell, python
 
 <br>
