@@ -4,8 +4,8 @@ I'm Senior Full Stack Developer at Bravosul 👨🏻‍💻.
 
 Automation and Control Engineering student. 
 
-- 🔭 I’m currently working on React, React Native, Typescript, Next.js, Nest.js
-- 🌱 I’m currently learning serverless architecture and 
+- 👨🏻‍💻. I’m currently working on Nest.js, Typescript
+- 🌱 I’m currently learning serverless architecture and Clean Architecture
 - ⚡ Languages: TypeScript, JavaScript, C#, Dart, C, C++, shell, python
 
 <br>
