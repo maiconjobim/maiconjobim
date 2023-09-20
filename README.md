@@ -1,12 +1,11 @@
 <h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! </h2>
 
-I'm Senior Full Stack Developer at Bravosul 👨🏻‍💻.
+I'm Senior Full Stack Developer 👨🏻‍💻.
 
 Automation and Control Engineering student. 
 
 - 👨🏻‍💻. I’m currently working on Nest.js, Typescript
-- 🌱 I’m currently learning serverless architecture and Clean Architecture
-- ⚡ Languages: TypeScript, JavaScript, C#, Dart, C, C++, shell, python
+- ⚡ Languages: TypeScript, JavaScript, Go, C#, Dart, python
 
 <br>
 
