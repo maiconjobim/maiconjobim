@@ -1,6 +1,6 @@
 <h2> 𝙷𝚒, 𝚠𝚎𝚕𝚌𝚘𝚖𝚎! </h2>
 
-I'm Senior Full Stack Developer 👨🏻‍💻.
+I'm Senior Full Stack Engineer  👨🏻‍💻.
 
 Automation and Control Engineering student. 
 
