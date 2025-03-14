@@ -4,7 +4,7 @@ I'm Senior Full Stack Developer 👨🏻‍💻.
 
 Automation and Control Engineering student. 
 
-- 👨🏻‍💻. I’m currently working on Nest.js, Typescript
+- 👨🏻‍💻. I’m currently working on Go and Typescript
 - ⚡ Languages: TypeScript, JavaScript, Go, C#, Dart, python
 
 <br>
